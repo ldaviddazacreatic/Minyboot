@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "RGB Mechanical Keyboard",
+        "description": "Mechanical keyboard with RGB backlighting and customizable switches.",
+        "price": 120,
+        "availability": true,
+        "quantity_available": 10
+    },
+    {
+        "id": 2,
+        "name": "Wireless Gaming Mouse",
+        "description": "Ergonomic mouse with 16000 DPI and wireless connectivity.",
+        "price": 80,
+        "availability": true,
+        "quantity_available": 15
+    },
+    {
+        "id": 3,
+        "name": "4K 144Hz Monitor",
+        "description": "High resolution 4K monitor with 144Hz refresh rate.",
+        "price": 400,
+        "availability": false,
+        "quantity_available": 3
+    },
+    {
+        "id": 4,
+        "name": "Wireless 7.1 Headphones",
+        "description": "Headphones with 7.1 surround sound and adjustable microphone.",
+        "price": 100,
+        "availability": true,
+        "quantity_available": 20
+    },
+    {
+        "id": 5,
+        "name": "Ergonomic Gaming Chair",
+        "description": "Ergonomic chair with lumbar support and full adjustment.",
+        "price": 150,
+        "availability": true,
+        "quantity_available": 5
+    },
+    {
+        "id": 6,
+        "name": "RTX 3080 Graphics Card",
+        "description": "NVIDIA RTX 3080 graphics card with 10GB GDDR6X for high-performance gaming.",
+        "price": 800,
+        "availability": true,
+        "quantity_available": 8
+    },
+    {
+        "id": 7,
+        "name": "i7 Gaming Laptop",
+        "description": "Gaming laptop with Intel i7 processor and GTX 1660 Ti graphics card.",
+        "price": 1000,
+        "availability": true,
+        "quantity_available": 12
+    },
+    {
+        "id": 8,
+        "name": "AMD Ryzen 9 Gaming PC",
+        "description": "Desktop PC with AMD Ryzen 9 and RTX 3070.",
+        "price": 1500,
+        "availability": false,
+        "quantity_available": 0
+    },
+    {
+        "id": 9,
+        "name": "32GB DDR4 RAM",
+        "description": "32GB DDR4 RAM kit for gaming performance.",
+        "price": 200,
+        "availability": true,
+        "quantity_available": 30
+    },
+    {
+        "id": 10,
+        "name": "1TB NVMe SSD",
+        "description": "1TB SSD with NVMe interface for high speed.",
+        "price": 120,
+        "availability": true,
+        "quantity_available": 25
+    },
+    {
+        "id": 11,
+        "name": "750W 80+ Gold Power Supply",
+        "description": "750W power supply with 80+ Gold certification.",
+        "price": 110,
+        "availability": true,
+        "quantity_available": 18
+    },
+    {
+        "id": 12,
+        "name": "RGB Mouse Pad",
+        "description": "Large mouse pad with RGB backlighting.",
+        "price": 25,
+        "availability": true,
+        "quantity_available": 50
+    },
+    {
+        "id": 13,
+        "name": "Xbox Controller for PC",
+        "description": "Wireless Xbox controller compatible with PC.",
+        "price": 60,
+        "availability": true,
+        "quantity_available": 0
+    },
+    {
+        "id": 14,
+        "name": "Liquid Cooling System",
+        "description": "Liquid cooling system for high-performance CPUs.",
+        "price": 150,
+        "availability": false,
+        "quantity_available": 0
+    },
+    {
+        "id": 15,
+        "name": "RGB PC Case",
+        "description": "PC case with tempered glass panel and RGB lighting.",
+        "price": 90,
+        "availability": true,
+        "quantity_available": 10
+    }
+]
